@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration>
+
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+    <!--platform-->
+    <PlatformName>web</PlatformName>
+
+    <!--Web-->
+
+    <BrowserName>Chrome</BrowserName>
+    <Url>http://localhost:3030/</Url>
+    <ImageRepo>./ImageRepository/</ImageRepo>
+
+    <!--API-->
+    <url_api>http://localhost:3030/</url_api>
+
+    <!--credentials-->
+    <user>admin</user>
+    <password>admin</password>
+</Configuration>
